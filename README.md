@@ -1,4 +1,9 @@
-TafallaTO
+TRABAJO OBLIGATORIO SEAS Diseño y Gestion de interfaces
+Profesor: Jorge Tafalla
 =========
+WEB basada en Jquery + JqueryMobile 
 
-TO SEAS TAFALLA Interfaces WEB
+
+
+=========
+By Andrés Julián Joven
